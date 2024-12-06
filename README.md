@@ -3,6 +3,7 @@
 
 A lightweight and user-friendly **PyQt5-based GUI application** to batch convert images into the **AVIF** format using **FFmpeg**. 
 The app allows users to control image quality with a slider and decide whether to overwrite existing files.
+
 The code was generated mostly using [**ChatGPT 4o**](https://chat.openai.com)
 
 ---
