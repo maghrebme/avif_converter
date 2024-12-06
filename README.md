@@ -74,10 +74,8 @@ pip install PyQt5
 ## Screenshots
 
 ### Main Interface
-![Main Interface](path/to/screenshot-main-interface.png)
+<img width="448" alt="Image2AVIF Converter" src="https://github.com/user-attachments/assets/e335ecd2-4abd-46a4-afd5-2a86b360fc11">
 
-### Conversion in Progress
-![Conversion Progress](path/to/screenshot-progress.png)
 
 ---
 
